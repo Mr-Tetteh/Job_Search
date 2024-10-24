@@ -1,9 +1,15 @@
 <script setup>
 
+import Hero from "@/components/Hero.vue";
+import HomeCards from "@/components/HomeCards.vue";
+import JobListings from "@/components/JobListings.vue";
 </script>
 
 <template>
-<h1 class="bg-red-400">Hello</h1>
+<Hero/>
+  <HomeCards/>
+  <JobListings/>
+
 </template>
 
 <style scoped>
