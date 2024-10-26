@@ -1,9 +1,10 @@
 <script setup>
 
+import JobListings from "@/components/JobListings.vue";
 </script>
 
 <template>
-<h2 class="text-center text-3xl">Jobs</h2>
+<JobListings/>
 </template>
 
 <style scoped>
