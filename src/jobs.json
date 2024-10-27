@@ -29,20 +29,6 @@
       }
     },
     {
-      "id": "3",
-      "title": "Vue.js Developer",
-      "type": "Full-Time",
-      "description": "Are you passionate about front-end development? Join our team in vibrant Brooklyn, NY, and work on exciting projects that make a difference. We offer competitive compensation and a collaborative work environment where your ideas are valued.",
-      "location": "Brooklyn, NY",
-      "salary": "$70K - $80K",
-      "company": {
-        "name": "Dolor Cloud",
-        "description": "Dolor Cloud is a leading technology company specializing in digital solutions for businesses of all sizes. With a focus on innovation and customer satisfaction, we are committed to delivering cutting-edge products and services.",
-        "contactEmail": "contact@dolorsitamet.com",
-        "contactPhone": "555-555-5555"
-      }
-    },
-    {
       "id": "4",
       "title": "Vue Front-End Developer",
       "type": "Part-Time",
@@ -71,35 +57,7 @@
       }
     },
     {
-      "id": "6",
-      "title": "Vue Native Developer",
-      "type": "Full-Time",
-      "description": "Join our team as a Front-End Developer in beautiful Portland, OR. We are looking for a skilled and enthusiastic individual to help us create innovative web solutions. Competitive salary and great benefits package available.",
-      "location": "Portland, OR",
-      "salary": "$100K - $110K",
-      "company": {
-        "name": "Port Solutions INC",
-        "description": "Port Solutions is a leading technology company specializing in software development and digital marketing. We are committed to providing our clients with cutting-edge solutions and our employees with a supportive and rewarding work environment.",
-        "contactEmail": "contact@ipsumlorem.com",
-        "contactPhone": "555-555-5555"
-      }
-    },
-    {
       "id": "6268",
-      "type": "Full-Time",
-      "title": "Cedric Black",
-      "description": "Aut pariatur Obcaec",
-      "salary": "$150K - $175K",
-      "location": "Eveniet ullamco eaq",
-      "company": {
-        "name": "Burks and Calderon Inc",
-        "description": "Dolores nihil corpor",
-        "contactEmail": "qojipik@mailinator.com",
-        "contactPhone": "+1 (802) 874-2384"
-      }
-    },
-    {
-      "id": "d73a",
       "type": "Full-Time",
       "title": "Cedric Black",
       "description": "Aut pariatur Obcaec",
@@ -166,48 +124,6 @@
         "description": "Dolores nihil corpor",
         "contactEmail": "qojipik@mailinator.com",
         "contactPhone": "+1 (802) 874-2384"
-      }
-    },
-    {
-      "id": "6335",
-      "type": "Full-Time",
-      "title": "Cedric Black",
-      "description": "Aut pariatur Obcaec",
-      "salary": "$150K - $175K",
-      "location": "Eveniet ullamco eaq",
-      "company": {
-        "name": "Burks and Calderon Inc",
-        "description": "Dolores nihil corpor",
-        "contactEmail": "qojipik@mailinator.com",
-        "contactPhone": "+1 (802) 874-2384"
-      }
-    },
-    {
-      "id": "c716",
-      "type": "Internship",
-      "title": "Germane Mccormick",
-      "description": "Sed fugit nihil con",
-      "salary": "$100K - $125K",
-      "location": "Cum tempora cumque t",
-      "company": {
-        "name": "Rodriguez Hunt LLC",
-        "description": "Voluptatem ea libero",
-        "contactEmail": "lakaw@mailinator.com",
-        "contactPhone": "+1 (847) 664-6647"
-      }
-    },
-    {
-      "id": "7c30",
-      "type": "Part-Time",
-      "title": "Fitzgerald Webster",
-      "description": "Quis occaecat deseru",
-      "salary": "$100K - $125K",
-      "location": "Enim nostrud quam re",
-      "company": {
-        "name": "Fitzgerald and Nielsen Traders",
-        "description": "Quis itaque corrupti",
-        "contactEmail": "viqin@mailinator.com",
-        "contactPhone": "+1 (659) 536-4866"
       }
     }
   ]
